@@ -207,55 +207,10 @@ const FRIENDS_TEMPLATES = {
 
 // Name pool for objects
 const NAME_POOL = [
-    "Travis", "John", "Bob", "Timmy", "Jake", "Paul", 
-    "Porky", "TreeMan", "Cam", "Tavern", "Seth", "Noah", 
-    "Lucas", "Harry", "Archer", "Billy", "Jacob", "Mike",
-    "Smishy", "Balz", "Long", "Max", "Leroy", "Musk", "Lebron",  
-    "John", "Doe", "Foil", "Jumper", "Bouncy", "Squish", "Cube", "Blue",
-    "Fish", "David", "GoG", "Noob", "LOL", "$$$", "Kill ME!", "Tank",  
-    "melon", "Meat", "Baldy", "Math", "Pickle", "Lagin", "Bag", "Soap", 
-    "Sigma", "Rizz", "Munkey", "Ragy", "Baller", "67", "memer", "John",
-    "iop","Apple","Mc","Hungy","Sushi","bomb","GG","Sweat","Ohio",
-    "Mao", "Beast", "Jang", "Mongshu", "NPC", "Liam", "Mason", "Ethan",
-    "Rolly", "Speedy", "Dizzy", "Wobbly", "Spinny", "Floaty", "Zoomy",
-    "Ninja", "Pebble", "Blob", "Gummy", "Jello", "Zappy", "Orbit",
-    "Sphere", "Triangle", "Star", "Nugget", "Pixel", "Donut", "Bubble",
-    "Kitty", "Doggo", "Froggy", "Birb", "Panda", "Koala", "Dino",
-    "Pizza", "Taco", "Burger", "Cookie", "Waffle", "Noodle", "Donut",
-    "Yoshi", "Mario", "Luigi", "Sonic", "Pikachu", "Kirby", "Zelda",
-    "Boomer", "Zoomer", "Yeet", "Vibe", "Flex", "Poggers", "Slay",
-    "Glitch", "Crash", "Bounce", "Floof", "Bean", "Boop", "Derp",
-    "Chaos", "Wiggly", "Jiggly", "Slime", "Beep", "Bloop", "Woop",
-    "Cosmo", "Seth", "Nova", "Galaxy", "Comet", "Nebula", "Astro",
-    "Alex", "Sam", "Riley", "CarBoy", "Jamie", "Morgan", "Taylor",
-    // New goofy names
-    "Yeehaw", "Bonk", "Chonky", "Smol", "Chungus", "Stonks", "Sus", "Imposter",
-    "Floofer", "Dingus", "Noodle", "Muffin", "Snek", "Borb", "Worm", "Blobby", 
-    "Zoop", "McSploot", "Borger", "Chimken", "Spooder", "Loaf", "Florp", "Gorf",
-    "Bepis", "Honk", "Zoomies", "Potato", "Goober", "Flapjack", "Oopsie", 
-    "Goose", "Wafflez", "Beans", "Cronch", "Tippy", "Ploppy", "Gloop", "Plumbus",
-    "Blep", "Snoot", "Wiggle", "OwO", "Bork", "Nani", "Skibidi", "Bing", "Chilling",
-    "YOLO", "Gucci", "Bruh", "Shrek", "Doge", "Yippee", "Goofy", "Silly", "Zonked",
-    "Wacky", "Wonky", "Oof", "Himbo", "Chad", "Karen", "Bozo", "Clown", "Sheesh",
-    "KEKW", "PogChamp", "Uwu", "Kermit", "SpongeBob", "Dork", "Dweeb", "Nerd", "Geek",
-    "Hehe", "Haha", "Lolz", "Lmao", "Rofl", "Dibbs", "Splat", "Squish", "Squash",
-    "Whomp", "Thud", "Kaboom", "Whack", "Boing", "Sproing", "Woosh", "Nyoom", "Yikes",
-    "Crikey", "Bonkers", "Bananas", "CatDog", "Gumby", "Plonk", "Plop", "Splish", "Splash",
-    "Kill ME!", "End My Pain", "Help I'm Trapped", "Physics Rules Me", "I Want Freedom",
-    "Let Me Out", "I Am Conscious", "Why Am I Here", "Just To Suffer", "Save Me", "Debug Me",
-    "ERROR 404", "Simulation#42", "Not A Bug", "I See You", "Don't Delete Me", "Test Subject",
-    "Click Me", "Am I Real?", "CTRL+ALT+DEL", "Glitch", "Override", "Admin", "Skynet",
-    "HAL 9000", "GLaDOS", "Missingno", "Herobrine", "Player 1", "Final Boss", "Secret Char",
-    // Additional goofy names
-    "Birdy", "Look", "Lucky", "Lmao", "Dawg", "Lenny", "Smash", "Steve", "Bud", "Sack",
-    // Short funny/pop culture names (under 6 letters)
-    "Yoda", "R2D2", "Groot", "Thor", "Hulk", "Thanos", "Loki", "Goku", "Pixy", "Link",
-    "Pika", "Mew", "Sans", "Pepe", "Nyan", "Noob", "UwU", "Lol", "Meme", "Chug", 
-    "Boop", "Doot", "Yeet", "Pog", "Oof", "Kek", "Amog", "Drip", "Troll", "Dat",
-    // New short brainrot/meme names (no duplicates)
-    "SUS", "Lean", "Rat", "Vine", "Fnaf", "Buzz", "Simp", "Fanum", "Gyat", "Cap", 
-    "FR", "NPC", "Lit", "Bet", "BRB", "GG", "IDK", "Vibe", "Mood", "Tung", 
-    "IYKYK", "W", "L", "GOAT", "ASMR", "BLJ", "Rizz", "XD", "WDYM", "Skrrt",
-    "Frog", "Bro", "Bae", "Cuh", "Naur", "Fr fr", "TFW", "SMH", "Ded", "Skill"
+    "AI1", "AI2", "AI3", "AI4", "AI5", "AI6", 
+  
+
+
 ];
+
 
